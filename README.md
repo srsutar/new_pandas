@@ -1,3 +1,3 @@
 # Pandas Homework
-## Pandas_Homework
-### PyCitySchools_starter.ipynb : Has the jupyternotebook file for Schools
+## Pandas_Homework(FOLDER)
+### PyCitySchools_starter.ipynb : Has the jupyternotebook(FILE) for Schools
